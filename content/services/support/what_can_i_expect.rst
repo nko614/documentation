@@ -13,7 +13,7 @@ What can I expect from the support service?
 Your Odoo Online subscription includes **unlimited 24hr support at no extra
 cost, Monday to Friday**. Our teams are located around the world to ensure you
 have support, no matter your location. Your support representative could be
-communicating to you from San Francisco, Belgium, or India!
+communicating to you from San Francisco, Buffalo, Belgium, or India!
 
 Our support team can be contacted through our `online support form <https://www.odoo.com/help>`__.
 
